@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello world 👋
 
+Sou um estudante e entusiasta que gosta de codificar e está nessa aventura por novos horizontes.
 <!--
 **Neguiolidas/Neguiolidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
